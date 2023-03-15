@@ -1,0 +1,24 @@
+{
+  "name": "simple-landing-page-nodejs",
+  "version": "1.0.0",
+  "description": "Simple landing page with nodejs html css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fajarjulyana/simple-landing-page-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fajarjulyana/simple-landing-page-nodejs/issues"
+  },
+  "homepage": "https://github.com/fajarjulyana/simple-landing-page-nodejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
