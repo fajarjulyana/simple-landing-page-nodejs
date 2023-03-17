@@ -17,7 +17,7 @@ install package npm
 ```
 npm install express
 npm install ejs
-
+```
 run server.js
 
 ```
