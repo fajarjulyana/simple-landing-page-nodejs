@@ -24,3 +24,14 @@ run server.js
 node server.js
 ```
 
+## Capture
+home <br/>
+<img src="capture/Capture-1.jpg"/><br/>
+produk <br/>
+<img src="capture/Capture-2.jpg"/><br/>
+tentang <br/>
+<img src="capture/Capture-3.jpg"/><br/>
+kontak <br/>
+<img src="capture/Capture-4.jpg"/><br/>
+
+thank
